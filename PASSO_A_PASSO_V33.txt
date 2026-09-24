@@ -1,0 +1,45 @@
+A&A FINANÇAS — INSTALAÇÃO DA V33 SINCRONIZADA
+
+1. NO GITHUB
+- Abra: https://github.com/assisjrcontador-art/aa-financas-teste
+- Envie e substitua estes arquivos na raiz do repositório:
+  index.html
+  sw.js
+  manifest.json
+  aa-cover.png
+  icon-192.png
+  icon-512.png
+- Confirme o commit e aguarde de 1 a 3 minutos.
+
+2. NO CELULAR DE ASSIS — FAÇA PRIMEIRO
+- Não limpe os dados do navegador e não desinstale o atalho antigo antes desta etapa.
+- Abra: https://assisjrcontador-art.github.io/aa-financas-teste/
+- Atualize a página.
+- Entre normalmente como Assis.
+- Na janela “Unir os dois celulares”, crie um código familiar com pelo menos 6 caracteres.
+- Toque em “Criar família”.
+- Guarde o código em local seguro. Os dados atuais deste celular serão a base inicial do casal.
+
+3. NO CELULAR DE ANDRESSA — FAÇA DEPOIS
+- Abra o mesmo endereço do aplicativo e atualize a página.
+- Escolha Andressa como usuária, caso seja solicitado.
+- Digite exatamente o mesmo código familiar criado por Assis.
+- Toque em “Entrar na família”.
+- O aplicativo baixará os dados compartilhados do casal.
+
+4. TESTE RÁPIDO
+- No celular de Assis, crie um lançamento pequeno de teste.
+- Aguarde aparecer “Sincronizado agora”.
+- Confira se o lançamento aparece no celular de Andressa.
+- Edite o lançamento no celular de Andressa e confira a atualização no celular de Assis.
+
+5. FUNCIONAMENTO OFFLINE
+- Sem internet, os lançamentos ficam salvos no aparelho.
+- Quando a conexão voltar, a sincronização acontece automaticamente.
+- O texto abaixo do título informa: sincronizado, sincronizando, offline ou pendente.
+- Toque nesse texto para abrir as configurações da sincronização.
+
+IMPORTANTE
+- Não compartilhe o código familiar com terceiros.
+- Nunca publique senha do banco ou chave service_role no GitHub.
+- A chave publishable usada pelo aplicativo é própria para uso público no navegador.
